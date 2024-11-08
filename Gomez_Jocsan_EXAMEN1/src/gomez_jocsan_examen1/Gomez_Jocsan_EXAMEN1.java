@@ -48,11 +48,11 @@ public class Gomez_Jocsan_EXAMEN1 {
                     break;
                     
                 case 5:
-                    System.out.println("Saliendo...");
+                    System.out.println("HASTA LUEGO...");
                     break;
                     
                 default:
-                    System.out.println("Opción no válida.");
+                    System.out.println("Opción no valida.");
                     break;
             }
             
