@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package gomez_jocsan_el.mayor;
+package gomez_jocsan_examen1;
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class Gomez_Jocsan_ELMAYOR {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void ejecutar() {
         Scanner scanner = new Scanner(System.in);
         
         // nombre del cliente
